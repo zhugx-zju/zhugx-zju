@@ -1,4 +1,4 @@
-# Gengxuan Zhu · 朱耕玄
+# Gengxuan Zhu
 
 **PhD student in Solid Mechanics · School of Aeronautics and Astronautics, Zhejiang University**
 
