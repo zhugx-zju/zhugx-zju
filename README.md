@@ -9,7 +9,7 @@ I develop inverse methods that turn measured displacements into spatial maps of 
 - **PhD in Solid Mechanics, Zhejiang University** · 2023–present. Advisor: Weiqiu Chen. Co-advisor: Ronghao Bao.
 - **Undergraduate studies** · Engineering Mechanics at Zhejiang University, with a final year in Propulsion Engineering at Moscow Aviation Institute through the 3+1 joint undergraduate program.
 
-[ORCID](https://orcid.org/0009-0000-3445-9109) · [Flagship project](#flagship-project-fe-gin) · [Research software](#research-software) · [Selected papers](#selected-papers)
+[ORCID](https://orcid.org/0009-0000-3445-9109) · [Flagship project](#flagship-project-fe-gin) · [Research code projects](#research-code-projects) · [Selected papers](#selected-papers)
 
 ---
 
@@ -23,7 +23,7 @@ In the benchmark, FE-GIN achieved lower reconstruction errors for the tested bil
 
 [Explore the code](https://github.com/zhugx-zju/FE-GIN) · [Read the paper](https://doi.org/10.1016/j.ijmecsci.2026.112126)
 
-## Research software
+## Research code projects
 
 | Research task | Repository |
 | --- | --- |
@@ -33,9 +33,7 @@ In the benchmark, FE-GIN achieved lower reconstruction errors for the tested bil
 
 ### Experimental displacement data
 
-[fgm_dic](https://github.com/zhugx-zju/fgm_dic) reconstructs two-dimensional modulus fields from experimental digital image correlation (DIC) displacement measurements. The workflow below shows the analysis for separate load cases.
-
-[![Workflow for reconstructing modulus fields from digital image correlation displacement data](https://raw.githubusercontent.com/zhugx-zju/fgm_dic/978734ce2bf4844cb4513889a6974ce8d573d0ea/plan/independent_platform_workflow.png)](https://github.com/zhugx-zju/fgm_dic)
+[fgm_dic](https://github.com/zhugx-zju/fgm_dic) reconstructs two-dimensional modulus fields from experimental digital image correlation (DIC) displacement measurements.
 
 <details>
 <summary>Earlier implementations</summary>
