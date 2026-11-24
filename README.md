@@ -26,7 +26,7 @@ With the same forward model, FE-GIN recovered the tested bilinear and exponentia
 | --- | --- |
 | [fgm_dic](https://github.com/zhugx-zju/fgm_dic) | 2D modulus reconstruction from experimental digital image correlation (DIC) data |
 | [FE-GIN](https://github.com/zhugx-zju/FE-GIN) | Finite-element-guided neural network for full-field modulus reconstruction |
-| [ASM-Python](https://github.com/zhugx-zju/ASM-Python) | 2D adjoint-state modulus inversion with gradient checks |
+| [Adjoint-InvFGM](https://github.com/zhugx-zju/Adjoint-InvFGM) | 2D adjoint-state modulus inversion with gradient checks |
 
 <details>
 <summary>More code projects</summary>
