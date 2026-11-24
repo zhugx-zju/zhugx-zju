@@ -48,5 +48,4 @@ With the same forward model, FE-GIN recovered the tested bilinear and exponentia
 
 - **PhD in Solid Mechanics, Zhejiang University** · 2023–present  
   Advisor: Weiqiu Chen · Co-advisor: Ronghao Bao
-- **Undergraduate studies in Engineering Mechanics, Zhejiang University**  
-  Final year in Propulsion Engineering at Moscow Aviation Institute through the 3+1 joint undergraduate program.
+- **Undergraduate studies in Engineering Mechanics, Zhejiang University**
