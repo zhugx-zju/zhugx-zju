@@ -24,14 +24,14 @@ With the same forward model, FE-GIN recovered the tested bilinear and exponentia
 
 | Project | Research task |
 | --- | --- |
+| [fgm_dic](https://github.com/zhugx-zju/fgm_dic) | 2D modulus reconstruction from experimental digital image correlation (DIC) data |
 | [CHTC](https://github.com/zhugx-zju/CHTC) | Continuous high-throughput characterization of mechanical properties with deep learning |
 | [ASM-Python](https://github.com/zhugx-zju/ASM-Python) | 2D adjoint-state modulus inversion with gradient checks |
-| [fgm-inverse-fenics](https://github.com/zhugx-zju/fgm-inverse-fenics) | Method comparison on a shared inverse problem using manual FEM, FEniCSx, and physics-informed neural networks |
-| [fgm_dic](https://github.com/zhugx-zju/fgm_dic) | 2D modulus reconstruction from experimental digital image correlation (DIC) data |
 
 <details>
-<summary>Earlier implementations</summary>
+<summary>More code projects</summary>
 
+- [fgm-inverse-fenics](https://github.com/zhugx-zju/fgm-inverse-fenics) — comparison of manual FEM, FEniCSx, and physics-informed neural networks for modulus inversion.
 - [Direct-FEM](https://github.com/zhugx-zju/Direct-FEM) — direct finite element methods for plane inverse problems.
 - [adjoint-method-Matlab](https://github.com/zhugx-zju/adjoint-method-Matlab) — MATLAB implementation of adjoint-based modulus identification.
 
